@@ -1,4 +1,6 @@
 <div align="center">
+  
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=👋%20Rémi%20Saurel&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
 ## 🌐 Socials
 
