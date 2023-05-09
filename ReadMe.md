@@ -6,7 +6,7 @@
 
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/rémi-saurel) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://twitter.com/RemiSaurel) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/rémi-saurel) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/RemiSaurel) 
 
 <div align="center">
 
