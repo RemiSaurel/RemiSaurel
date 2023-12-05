@@ -1,17 +1,43 @@
-<div align="center">
+## 👋 Hey !
+<p>
+  I'm Rémi, a passionate computer science student from 🇫🇷 France!
+</p>
+
+<p align="center">
+  <samp>
+    <a href="https://remisaurel.github.io/portfolio/">portfolio</a> .
+    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://twitter.com/RemiSaurel">twitter</a> .
+    <a href="https://linkedin.com/in/rémi-saurel">linkedin</a>
+  </samp>
+</p>
+
+## 🧑‍💻 Latest projects
+- **Web**
+  - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
+  - [miageland-front](https://github.com/MIAGELand/miageland-front) - 🎡 Uni. project on an amusement park (front-end)
+  - [golden-legends](https://github.com/Golden-Legends) - **[🚧 WIP]** 🔭 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
+  - [lockio-front](https://github.com/Lockiio/lockio-front) - 🔒 Uni. project on smart lockers (front-end)
+  - [sorting-algorithm](https://github.com/RemiSaurel/sorting-algorithms) - 🔁 Sorting algorithms visualization
+  - [blockus](https://blockus-prod-d75bc.web.app/#/) - 🎮 Blockus game made with [@Y0hon](https://github.com/Y0hon)
   
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=👋%20Rémi%20Saurel&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+- **Python**
+  - [wasabi-data](https://github.com/wasabi-project/wasabi-data) - 🧹 The scrapping + cleaning part of the dataviz project
+  - [spotidrone](https://github.com/RemiSaurel/SpotiDrone) - 📡 Spotify bot to create a "_Discover new artist_" playlist based on your recent top songs
+  - [lockio-raspberry](https://github.com/Lockiio/lockio-rasp) - 🔒 Raspberry feature to simulate lockers with LEDs
 
-## 🌐 Socials
+- **Java**
+  - [lockio-back](https://github.com/Lockiio/lockio-back) - 🔒 Uni. project on smart lockers (back-end)
+  - [miageland-back](https://github.com/MIAGELand/miageland-back) - 🎡 Uni. project on an amusement park (back-end)
+  - [studoby](https://github.com/RemiSaurel/Studoby) - 🧑‍🎓 Main repository about Studoby, my (small) contribution to help students in CS
 
-</div>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/rémi-saurel) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white)](https://twitter.com/RemiSaurel) 
+## 📈 My GitHub Stats
 
-<div align="center">
-
-## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=RemiSaurel&theme=blueberry&hide_border=false) 
----
-[![](https://visitcount.itsvg.in/api?id=RemiSaurel&icon=4&color=0)](https://visitcount.itsvg.in)
-</div>
+<a href="https://github.com/RemiSaurel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemiSaurel&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RemiSaurel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RemiSaurel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
