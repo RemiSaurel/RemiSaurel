@@ -6,7 +6,7 @@
 <p align="center">
   <samp>
     <a href="https://remisaurel.github.io/portfolio/">portfolio</a> .
-    <a href="https://chat.antfu.me">discord</a> .
+    <a href="https://discord.gg/CcqzXXJfvm">discord</a> .
     <a href="https://twitter.com/RemiSaurel">twitter</a> .
     <a href="https://linkedin.com/in/rémi-saurel">linkedin</a>
   </samp>
