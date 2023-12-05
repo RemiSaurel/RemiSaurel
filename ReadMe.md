@@ -14,9 +14,9 @@
 
 ## 🧑‍💻 Latest projects
 - **Web**
+  - [golden-legends](https://github.com/Golden-Legends) - **[🚧 WIP]** 🥇 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
   - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
   - [miageland-front](https://github.com/MIAGELand/miageland-front) - 🎡 Uni. project on an amusement park (front-end)
-  - [golden-legends](https://github.com/Golden-Legends) - **[🚧 WIP]** 🔭 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
   - [lockio-front](https://github.com/Lockiio/lockio-front) - 🔒 Uni. project on smart lockers (front-end)
   - [sorting-algorithm](https://github.com/RemiSaurel/sorting-algorithms) - 🔁 Sorting algorithms visualization
   - [blockus](https://blockus-prod-d75bc.web.app/#/) - 🎮 Blockus game made with [@Y0hon](https://github.com/Y0hon)
@@ -32,7 +32,7 @@
   - [studoby](https://github.com/RemiSaurel/Studoby) - 🧑‍🎓 Main repository about Studoby, my (small) contribution to help students in CS
 
 
-## 📈 My GitHub Stats
+## 📈 GitHub Stats
 
 <a href="https://github.com/RemiSaurel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemiSaurel&&hide=html,makefile,c%2B%2B,c,vcl,groff,dockerfile,shell,objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&count_private=true&langs_count=3" />
