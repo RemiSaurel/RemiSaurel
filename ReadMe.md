@@ -14,6 +14,7 @@
 
 ## 🧑‍💻 Latest projects
 - **Web**
+  - [datastrike](https://github.com/datastrike) - **[🚧 WIP]** 🗂️ Data analysis and management tool for esport teams
   - [golden-legends](https://github.com/Golden-Legends) - **[🚧 WIP]** 🥇 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
   - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
   - [miageland-front](https://github.com/MIAGELand/miageland-front) - 🎡 Uni. project on an amusement park (front-end)
