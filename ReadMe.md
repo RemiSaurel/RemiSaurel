@@ -3,19 +3,10 @@
   I'm Rémi, a passionate computer science student from 🇫🇷 France!
 </p>
 
-<p align="center">
-  <samp>
-    <a href="https://remisaurel.github.io/portfolio/">portfolio</a> .
-    <a href="https://discord.gg/CcqzXXJfvm">discord</a> .
-    <a href="https://twitter.com/RemiSaurel">twitter</a> .
-    <a href="https://linkedin.com/in/rémi-saurel">linkedin</a>
-  </samp>
-</p>
-
 ## 🧑‍💻 Latest projects
 - **Web**
-  - [datastrike](https://github.com/datastrike) - **[🚧 WIP]** 🗂️ Data analysis and management tool for esport teams
   - [golden-legends](https://github.com/Golden-Legends) - **[🚧 WIP]** 🥇 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
+  - [datastrike](https://github.com/datastrike) - 🗂️ Data analysis and management tool for esport teams
   - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
   - [miageland-front](https://github.com/MIAGELand/miageland-front) - 🎡 Uni. project on an amusement park (front-end)
   - [lockio-front](https://github.com/Lockiio/lockio-front) - 🔒 Uni. project on smart lockers (front-end)
