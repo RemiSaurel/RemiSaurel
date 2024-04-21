@@ -12,7 +12,7 @@
   - [miageland-front](https://github.com/MIAGELand/miageland-front) - 🎡 Uni. project on an amusement park (front-end)
   - [lockio-front](https://github.com/Lockiio/lockio-front) - 🔒 Uni. project on smart lockers (front-end)
   - [sorting-algorithm](https://github.com/RemiSaurel/sorting-algorithms) - 🔁 Sorting algorithms visualization
-  - [blockus](https://blockus-prod-d75bc.web.app/#/) - 🎮 Blockus game made with [@Y0hon](https://github.com/Y0hon)
+  - [blockus](https://blockus-prod-d75bc.web.app/#/) - 🎮 Blockus game made with [@Yohan](https://github.com/YohanLussiez)
   
 - **Python**
   - [wasabi-data](https://github.com/wasabi-project/wasabi-data) - 🧹 The scrapping + cleaning part of the dataviz project
