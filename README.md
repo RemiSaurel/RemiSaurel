@@ -5,7 +5,6 @@
 
 ## 🧑‍💻 Latest projects
 - **Web**
-  - [acm](https://github.com/AgriConnectMiage) - **[🚧 WIP]** 🧑‍🌾 Microservices-oriented full stack project
   - [golden-legends](https://github.com/Golden-Legends) - 🥇 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
   - [datastrike](https://github.com/datastrike) - 🗂️ Data analysis and management tool for esport teams
   - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
