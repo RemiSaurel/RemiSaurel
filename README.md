@@ -5,6 +5,7 @@
 
 ## 🧑‍💻 Latest projects
 - **Web**
+  - [blog](https://github.com/RemiSaurel/studoby-web) - 😎 My blog with cool articles
   - [golden-legends](https://github.com/Golden-Legends) - 🥇 CGI Games On Web contest - BabylonJS game on the theme "Olympic Edition"
   - [datastrike](https://github.com/datastrike) - 🗂️ Data analysis and management tool for esport teams
   - [wasabi-dataviz](https://github.com/wasabi-project/wasabi-dataviz) - 📊 Uni. project on data visualization
@@ -14,6 +15,7 @@
   - [blockus](https://blockus-prod-d75bc.web.app/#/) - 🎮 Blockus game made with [@Yohan](https://github.com/YohanLussiez)
   
 - **Python**
+  - [abregeur](https://github.com/RemiSaurel/abregeur) - ✂️ Small project to summarize scientific articles into small `.md` files thanks to GPT API.
   - [wasabi-data](https://github.com/wasabi-project/wasabi-data) - 🧹 The scrapping + cleaning part of the dataviz project
   - [spotidrone](https://github.com/RemiSaurel/SpotiDrone) - 📡 Spotify bot to create a "_Discover new artist_" playlist based on your recent top songs
   - [lockio-raspberry](https://github.com/Lockiio/lockio-rasp) - 🔒 Raspberry feature to simulate lockers with LEDs
